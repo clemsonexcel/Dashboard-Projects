@@ -1,6 +1,5 @@
 # 📊 Dashboard Projects  
 
-### **Welcome!**  
 This repository contains interactive dashboards built using **Excel, Power BI, and Tableau**. Each project focuses on transforming raw data into insightful visualizations to support data-driven decision-making.  
 
 ### **Projects Included:**  

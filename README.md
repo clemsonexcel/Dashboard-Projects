@@ -11,8 +11,7 @@ This repository contains interactive dashboards built using **Excel, Power BI, a
 - **[Employee Presence Dashoard](https://github.com/clemsonexcel/Dashboard-Projects/tree/main/Employee%20Presence%20Dashboard)** – SQL, Power BI
 - **[Hotel Analytics Report](https://github.com/clemsonexcel/Hotel-Analysis-Report)** – SQL, Power BI
 - **[Dashboard](link)** – tool
-- **[Dashboard](link)** – tool
-- **[Dashboard](link)** – tool
+
 
 
 🔗 **More dashboards coming soon!**  

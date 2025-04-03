@@ -1,6 +1,6 @@
 ## **Toman Bike Share Analysis Dashboard** 🚴‍♂️📊  
 
- ![Bicycle-Gif](bike-bicycle.gif)
+ ![Bicycle-Gif](images/bike-bicycle.gif)
 #### **Overview**  
 This project analyzes bike data for **Toman Bike Share**, providing insights into **revenue trends, rider demographics, and seasonal patterns**. The goal is to assess **whether increasing prices next year is viable** while ensuring business sustainability and customer retention.  
 
@@ -59,9 +59,9 @@ This transformed dataset was then loaded into Power BI for visualization.
 
 *Dashboard Preview*
 
-![Dashboard](dashboard_image.png)
+![Dashboard](images/dashboard_image.png)
 
-🔗 [View Full Dashboard](link-to-dashbaord)
+🔗 [Check out Interactive Dashboard](link-dashboard)
 
 ### **Business Recommendations**  
 

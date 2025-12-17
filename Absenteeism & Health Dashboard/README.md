@@ -20,10 +20,11 @@ The project addresses **common HR challenges** with messy or disconnected datase
 ##  Workflow
 
 1. **Database Setup**
-
+  
    * Developed a **MySQL database**
-   * Created tables and imported **three datasets**: `Absenteeism`, `Compensation`, and `Reasons`
+   * Created tables and imported **three datasets**: `Absenteeism`, `Compensation` that contain information about salary, and `Reasons` with reasons for absence.
    * Data from multiple CSVs was imported and structured for analysis, ensuring consistency and integrity across tables.
+
 
 2. **SQL Queries & Analysis**
 

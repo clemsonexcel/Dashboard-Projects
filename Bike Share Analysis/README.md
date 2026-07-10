@@ -75,7 +75,6 @@ Based on a $4.99 Baseline Fare
 - A **10% increase** would set the new price at **$5.49**.  
 - A **15% increase** would set the price at approximately **$5.74**. 
 
-Price Adjustment Estimates (Based on a $4.99 Baseline Fare)
 
 #### **Strategic Considerations**  
 

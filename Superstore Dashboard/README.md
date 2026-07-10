@@ -3,6 +3,8 @@
 ## Project Overview
 This project analyzes the Superstore dataset using Microsoft Excel. The primary goal was to clean, organize, and visualize the data to extract meaningful insights about sales, profits, and customer trends.
 
+Business Question: Which product categories, regions, and seasons drive the most profit, and where might strong sales volume be masking weak or negative margins?
+
 Key tasks completed in this project: 
 - Perform data cleaning to handle missing values and inconsistencies.
 - Conduct exploratory data analysis (EDA) to understand sales performance.

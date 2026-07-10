@@ -3,6 +3,9 @@
 ## Project Overview
 This project analyzes employee attendance data over a period of three months, April to June, to gain insights into workforce presence and working preferences. The goal is to assist HR teams in understanding employee attendance patterns and making informed decisions regarding scheduling, remote work policies, and event planning.
 
+### Question 
+How do attendance patterns and remote-work preferences shift over time, and which days are optimal for scheduling company-wide events?
+
 ## Dataset
 The dataset represents an attendance sheet for employees, listing their workdays and specifying whether they were present or not and the type of day they had; work from home, hald day, holiday off, paid leave, and so on. 
 

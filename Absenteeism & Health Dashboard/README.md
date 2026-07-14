@@ -94,11 +94,31 @@ WHERE bmi_category = 'Healthy'
 * **Data Cleaning & Integration** – merging multiple datasets
 
 
-## Key Insights & Recommendations
+## Key Insights & Findings
 
-* Identified employees eligible for the **healthy bonus program**
-* Calculated **potential wage increases** for non-smokers
-* Created a dashboard enabling HR to **visualize absenteeism patterns and trends**
+
+**Absenteeism Patterns**
+
+* Average absenteeism across the workforce (740 employees) was 6.92 hours.
+* Monday had the highest average absenteeism at 9.25 hours; Thursday the lowest at 4.45 hours — suggesting a possible "long weekend" effect worth further investigation.
+* July recorded the highest monthly absenteeism, February the lowest.
+* Seasonally, average absenteeism ranged narrowly from 6.00 to 8.15 hours, indicating absenteeism is driven more by day-of-week and specific months than by season.
+
+**Reasons for Absence**
+
+* Medical and dental consultations accounted for 261 of 740 recorded reasons (35.3%), the top two categories.
+
+**Data Quality Flag**
+
+* One employee accounted for 85.73% of total recorded absenteeism hours, an extreme outlier relative to the rest of the workforce. This was flagged for HR to verify whether it reflects a genuine case (e.g. long-term medical leave) or a data entry error, rather than being averaged into general trends.
+
+**Healthy Bonus Program**
+
+* 125 employees met all criteria (healthy BMI, below-average absenteeism, non-smoker, non-drinker) for the healthy bonus program. Against the $1,000 total budget, this works out to $8 per qualifying employee. The $8 per-employee bonus suggests the program budget may need revisiting relative to the number of qualifying employees.
+
+**Non-Smoker Compensation Adjustment**
+
+* 686 employees (out of 740) were identified as non-smokers. Against the $983,221 insurance budget, this equates to approximately $1,433 per non-smoker annually.
 
 
 #### Power BI Dashboard 

@@ -20,7 +20,8 @@ This project analyzes bike data for **Toman Bike Share**, providing insights int
 Before building the dashboard in Power BI, the data was processed using SQL. The query below merges the datasets and selects the necessary columns for analysis:
 
 ```sql
-with full_table as (
+-- merging all the tables into one and selecting the columns needed
+
 with shares_table as (
 	SELECT * FROM bike_share_yr_0
 	UNION ALL 

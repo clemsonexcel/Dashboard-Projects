@@ -22,7 +22,7 @@ Before building the dashboard in Power BI, the data was processed using SQL. The
 ```sql
 -- merging all the tables into one and selecting the columns needed
 
-with shares_table as (
+with shares_table as 
 	SELECT * FROM bike_share_yr_0
 	UNION ALL 
 	SELECT *
